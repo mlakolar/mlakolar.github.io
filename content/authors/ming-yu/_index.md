@@ -14,8 +14,8 @@ role: PhD
 
 # Organizations/Affiliations
 organizations: 
-- name: University of Chicago Booth School of Business
-  url: ""
+- name: Citadel Securities
+  url: "https://www.citadelsecurities.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ming received his PhD in Econometrics and Statistics at University of Chicago, Booth School of Business in March 2020. His research interests include high dimensional statistical inference, non-convex optimization, and reinforcement learning, with a focus on developing novel methodologies with both practical applications and theoretical guarantees.
@@ -69,5 +69,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
