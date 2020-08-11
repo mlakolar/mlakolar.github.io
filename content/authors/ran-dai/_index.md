@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "Ran Dai"
+title: "Ran Dai"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Ran Dai"
+- ran-dai
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD (2016-2020)
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,9 @@ email: "randai@uchicago.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-Ran Dai is a fourth-year PhD candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
+Ran Dai received her PhD in Statistics at the University of Chicago in July 2020. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
+
+[Personal Website](https://stat.uchicago.edu/people/profile/ran-dai/)

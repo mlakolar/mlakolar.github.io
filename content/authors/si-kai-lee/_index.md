@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Si Kai Lee"
+title: "Si Kai Lee"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Si Kai Lee"
+- si-kai-lee
 
 # Is this the primary user of the site?
 superuser: false

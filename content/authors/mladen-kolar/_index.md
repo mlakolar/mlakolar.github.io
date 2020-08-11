@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Mladen Kolar
+title: Mladen Kolar
 
 # Username (this should match the folder name)
 authors:
-- Mladen Kolar
+- mladen-kolar
 
 # Is this the primary user of the site?
 superuser: true

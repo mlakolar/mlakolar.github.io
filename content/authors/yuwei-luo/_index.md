@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Yuwei Luo"
+title: "Yuwei Luo"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Yuwei Luo"
+- yuwei-luo
 
 # Is this the primary user of the site?
 superuser: false
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
-Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning, control, optimization and network analysis.
+Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning, control, optimization and network analysis. Yuwei is continuing his education as a PhD student at Stanford University.

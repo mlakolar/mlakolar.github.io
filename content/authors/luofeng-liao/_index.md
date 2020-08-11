@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Luofeng Liao"
+title: "Luofeng Liao"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Luofeng Liao"
+- luofeng-liao
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,7 +25,7 @@ interests:
 - Machine Learning
 - Distributed Optimization
 
-education: 
+education:
   courses:
   - course: BS in Computer Science
     institution: Fudan University

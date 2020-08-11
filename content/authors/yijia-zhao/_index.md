@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Yijia Zhao"
+title: "Yijia Zhao"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Yijia Zhao"
+- yijia-zhao
 
 # Is this the primary user of the site?
 superuser: false
@@ -62,5 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
+
+Yijia Zhao received her MS in Statistics at the University of Chicago. Yijia continued her education as a PhD student at University of California, Los Angeles.
