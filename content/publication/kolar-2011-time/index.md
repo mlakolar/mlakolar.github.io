@@ -2,7 +2,7 @@
 title: "On Time Varying Undirected Graphs"
 date: 2011-01-01
 publishDate: 2020-01-27T20:57:22.573439Z
-authors: ["Mladen Kolar", "Eric P. Xing"]
+authors: [mladen-kolar, "Eric P. Xing"]
 publication_types: ["1"]
 abstract: ""
 featured: false

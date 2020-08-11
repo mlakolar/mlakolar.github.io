@@ -2,7 +2,7 @@
 title: "Sparsistent Learning Of Varying-coefficient Models With Structural Changes"
 date: 2009-01-01
 publishDate: 2020-01-27T20:57:22.574277Z
-authors: ["Mladen Kolar", "Le Song", "Eric P. Xing"]
+authors: [mladen-kolar, "Le Song", "Eric P. Xing"]
 publication_types: ["1"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Direct Estimation of Differential Functional Graphical Models"
 date: 2019-01-01
 publishDate: 2020-01-27T20:57:22.567337Z
-authors: ["Boxin Zhao", "Y. Samuel Wang", "Mladen Kolar"]
+authors: [boxin-zhao, sam-wang, mladen-kolar]
 publication_types: ["6"]
 abstract: ""
 featured: true

@@ -2,7 +2,7 @@
 title: "Feature Selection in High-Dimensional Classification"
 date: 2013-01-01
 publishDate: 2020-01-27T20:57:22.572189Z
-authors: ["Mladen Kolar", "Han Liu"]
+authors: [mladen-kolar, "Han Liu"]
 publication_types: ["1"]
 abstract: ""
 featured: false

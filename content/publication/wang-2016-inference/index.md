@@ -2,7 +2,7 @@
 title: "Inference for High-dimensional Exponential Family Graphical Models"
 date: 2016-01-01
 publishDate: 2020-01-27T20:57:22.570734Z
-authors: ["Jialei Wang", "Mladen Kolar"]
+authors: [jialei-wang, mladen-kolar]
 publication_types: ["1"]
 abstract: ""
 featured: false

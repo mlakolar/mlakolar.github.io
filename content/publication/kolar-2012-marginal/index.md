@@ -2,7 +2,7 @@
 title: "Marginal Regression For Multitask Learning"
 date: 2012-01-01
 publishDate: 2020-01-27T20:57:22.572929Z
-authors: ["Mladen Kolar", "Han Liu"]
+authors: [mladen-kolar, "Han Liu"]
 publication_types: ["1"]
 abstract: ""
 featured: false

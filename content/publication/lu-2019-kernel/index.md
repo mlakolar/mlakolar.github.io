@@ -2,7 +2,7 @@
 title: "Kernel Meets Sieve: Post-Regularization Confidence Bands for Sparse Additive Model"
 date: 2019-11-01
 publishDate: 2020-01-27T20:57:22.567831Z
-authors: ["Junwei Lu", "Mladen Kolar", "Han Liu"]
+authors: ["Junwei Lu", mladen-kolar, "Han Liu"]
 publication_types: ["2"]
 abstract: ""
 featured: true

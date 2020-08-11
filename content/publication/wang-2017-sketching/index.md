@@ -2,7 +2,7 @@
 title: "Sketching meets random projection in the dual: a provable recovery algorithm for big and high-dimensional data"
 date: 2017-01-01
 publishDate: 2020-01-27T20:57:22.569448Z
-authors: ["Jialei Wang", "Jason D. Lee", "Mehrdad Mahdavi", "Mladen Kolar", "Nathan Srebro"]
+authors: [jialei-wang, "Jason D. Lee", "Mehrdad Mahdavi", mladen-kolar, "Nathan Srebro"]
 publication_types: ["2"]
 abstract: ""
 featured: false

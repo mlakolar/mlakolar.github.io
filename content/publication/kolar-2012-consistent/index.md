@@ -2,7 +2,7 @@
 title: "Consistent Covariance Selection From Data With Missing Values"
 date: 2012-07-01
 publishDate: 2020-01-27T20:57:22.572723Z
-authors: ["Mladen Kolar", "Eric P. Xing"]
+authors: [mladen-kolar, "Eric P. Xing"]
 publication_types: ["1"]
 abstract: ""
 featured: false

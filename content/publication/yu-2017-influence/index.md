@@ -2,7 +2,7 @@
 title: "An Influence-Receptivity Model for Topic based Information Cascades"
 date: 2017-01-01
 publishDate: 2020-01-27T20:57:22.569813Z
-authors: ["Ming Yu", "Varun Gupta", "Mladen Kolar"]
+authors: [ming-yu, "Varun Gupta", mladen-kolar]
 publication_types: ["1"]
 abstract: ""
 featured: false

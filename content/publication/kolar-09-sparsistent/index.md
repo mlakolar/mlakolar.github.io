@@ -2,7 +2,7 @@
 title: "Sparsistent Estimation Of Time-varying Discrete Markov Random Fields"
 date: 2009-07-01
 publishDate: 2020-01-27T20:57:22.566967Z
-authors: ["Mladen Kolar", "Eric P. Xing"]
+authors: [mladen-kolar, "Eric P. Xing"]
 publication_types: ["2"]
 abstract: ""
 featured: false

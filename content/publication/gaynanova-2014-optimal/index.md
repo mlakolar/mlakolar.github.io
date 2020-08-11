@@ -2,7 +2,7 @@
 title: "Optimal variable selection in multi-group sparse discriminant analysis"
 date: 2015-01-01
 publishDate: 2020-01-27T20:57:22.571280Z
-authors: ["Irina Gaynanova", "Mladen Kolar"]
+authors: ["Irina Gaynanova", mladen-kolar]
 publication_types: ["2"]
 abstract: ""
 featured: false

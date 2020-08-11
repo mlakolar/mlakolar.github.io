@@ -2,7 +2,7 @@
 title: "Variance Function Estimation in High-dimensions"
 date: 2012-07-01
 publishDate: 2020-01-27T20:57:22.572518Z
-authors: ["Mladen Kolar", "James Sharpnack"]
+authors: [mladen-kolar, "James Sharpnack"]
 publication_types: ["1"]
 abstract: ""
 featured: false

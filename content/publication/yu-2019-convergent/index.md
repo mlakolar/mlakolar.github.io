@@ -2,7 +2,7 @@
 title: "Convergent Policy Optimization for Safe Reinforcement Learning"
 date: 2019-01-01
 publishDate: 2020-01-27T20:57:22.567503Z
-authors: ["Ming Yu", "Zhuoran Yang", "Mladen Kolar", "Zhaoran Wang"]
+authors: [ming-yu, "Zhuoran Yang", mladen-kolar, "Zhaoran Wang"]
 publication_types: ["6"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Recovery of simultaneous low rank and two-way sparse coefficient matrices, a nonconvex approach"
 date: 2020-01-22
 publishDate: 2020-01-27T20:57:22.567665Z
-authors: ["Ming Yu", "Varun Gupta", "Mladen Kolar"]
+authors: [ming-yu, "Varun Gupta", mladen-kolar]
 publication_types: ["2"]
 abstract: ""
 featured: true

@@ -2,7 +2,7 @@
 title: "Markov Network Estimation From Multi-attribute Data"
 date: 2013-01-01
 publishDate: 2020-01-27T20:57:22.572026Z
-authors: ["Mladen Kolar", "Han Liu", "Eric P. Xing"]
+authors: [mladen-kolar, "Han Liu", "Eric P. Xing"]
 publication_types: ["1"]
 abstract: ""
 featured: false
