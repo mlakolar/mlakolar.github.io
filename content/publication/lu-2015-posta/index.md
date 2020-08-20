@@ -8,5 +8,5 @@ abstract: ""
 featured: true
 publication: "*Journal of Machine Learning Research*"
 url_pdf: "http://jmlr.org/papers/v18/17-145.html"
-url_code: "https://github.com/mlakolar/ROCKET"
+url_code: "https://github.com/dreamwaylu/dynamicGraph"
 ---
